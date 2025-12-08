@@ -1,0 +1,1 @@
+# qrneighbor-platform
